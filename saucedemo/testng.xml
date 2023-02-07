@@ -6,4 +6,9 @@
       <class name="Testcases1.Test1"/>
     </classes>
   </test> <!-- Test -->
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Testcases1.TestDP"/>
+    </classes>
+  </test> <!-- Test -->
 </suite> <!-- Suite -->
